@@ -14,7 +14,7 @@
 
 - Vorlesung: Di 10:15-11:45, Oettingenstr. 67 / L155
 - Übung: Mi 14:15-15:45, Oettingenstr. 67 / L155
-- Tutorium: *folgt*
+- Tutorium: Fr 10:15-11:45
 
 ***Die Veranstaltung findet hybrid statt (Präsenz mit Zoom-Übertragung); der Zoom-Link wird per LSF-Rundmail und in Moodle mitgeteilt.***
 
@@ -22,7 +22,7 @@
 
 ## Moodle-Kursseite:
 
-**folgt**
+https://moodle.lmu.de/course/view.php?id=36487
 
 - Die Anmeldung ist verpflichtend; Moodle dient als Kommunikations- und Verwaltungsplattform (insbesondere für aktuelle Mitteilungen und die Verwaltung der Informatik-Hauptfach-Studierenden).
 - Hauptfach-spezifische **Einschreibeschlüssel werden per LSF-Rundmail bekanntgegeben**.

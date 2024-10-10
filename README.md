@@ -45,7 +45,7 @@ https://moodle.lmu.de/course/view.php?id=36487
 | ------------- | ------------- | ------------- | 
 | Di, 22.10.24 | Mi 23.10.24 | 2. Phrasenstrukturgrammatik | 
 | Di, 29.10.24 | Mi 30.10.24 | 3. X-Bar-Struktur und Ambiguität | 
-| Di, 05.11.24 | Mi 06.11.24 | Wortstellung (*Ausfall Übung*) | 
+| Di, 05.11.24 | - (Ausfall) | *Vorlesung zu Wortstellung und Feldermodell* | 
 | Di, 12.11.24 | Mi 13.11.24 | 4. CFG-Parsing | 
 
 
@@ -89,7 +89,7 @@ https://moodle.lmu.de/course/view.php?id=36487
 
 | Datum  | Uhrzeit | Raum |
 | ------------- | ------------- | ------------- |
-|  *folgt* |   |  |
+|  *Mi, 26.02.2025* | 14:00  | *folgt* |
 
 
 

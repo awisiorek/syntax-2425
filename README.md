@@ -14,9 +14,9 @@
 
 - Vorlesung: Di 10:15-11:45, Oettingenstr. 67 / L155
 - Übung: Mi 14:15-15:45, Oettingenstr. 67 / L155
-- Tutorium: Fr 10:15-11:45
+- Tutorium: Fr 10:15-11:45, Leopoldstr. 13 / H2 2201
 
-***Die Veranstaltung findet hybrid statt (Präsenz mit Zoom-Übertragung); der Zoom-Link wird per LSF-Rundmail und in Moodle mitgeteilt.***
+***Die Veranstaltung findet hybrid statt; der Zoom-Link wird per LSF-Rundmail und in Moodle mitgeteilt.***
 
 
 

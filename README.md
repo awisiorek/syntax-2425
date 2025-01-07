@@ -71,8 +71,8 @@ https://moodle.lmu.de/course/view.php?id=36487
 | Vorlesung |  Übung | Thema 
 | ------------- | ------------- | ------------- | 
 | Di, 07.01.25 | Mi 08.01.25 | 10. PCFGs und probabilistisches Parsing | 
-| Di, 14.01.25 | Mi 15.01.25 | 11. Grammatikinduktion + *Probeklausur* | 
-| Di, 21.01.25 | Mi 22.01.25 | 12. Partielles Parsing | 
+| Di, 14.01.25 | Mi 15.01.25 | 11. Grammatikinduktion | 
+| Di, 21.01.25 | Mi 22.01.25 | 12. Partielles Parsing + *Probeklausur* | 
 
 
 

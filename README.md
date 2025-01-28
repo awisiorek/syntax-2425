@@ -80,8 +80,8 @@ https://moodle.lmu.de/course/view.php?id=36487
 
 | Vorlesung |  Übung | Thema 
 | ------------- | ------------- | ------------- | 
-| Di, 28.01.25 | Mi 29.01.25 | 13. Komplexität + *Klausurvorbereitung (Besprechung Probeklausur)* | 
-| Di, 04.02.25 | Mi 05.02.25 | *Klausurvorbereitung (Wiederholung, Fragen)* | 
+| Di, 28.01.25 | Mi 29.01.25 |  *Klausurvorbereitung:  Probeklausur* | 
+| Di, 04.02.25 | Mi 05.02.25 | 13. Komplexität *Klausurvorbereitung: Wiederholung und Fragen* | 
 
 
 

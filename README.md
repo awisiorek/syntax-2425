@@ -89,7 +89,7 @@ https://moodle.lmu.de/course/view.php?id=36487
 
 | Datum  | Uhrzeit | Raum |
 | ------------- | ------------- | ------------- |
-|  *Mi, 26.02.2025* | 14:00  | *folgt* |
+|  *Mi, 26.02.2025* | 14:00  | B001 |
 
 
 
